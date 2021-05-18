@@ -1,11 +1,10 @@
 import React from "react";
-import { messages } from "./Messages.js";
+import { messages } from "./messages";
 
 class EndGame extends React.Component {
   handleClick = () => {
     this.props.newGame(false);
   };
-
   render() {
     messages.sort(() => Math.random() - 0.5);
     return (

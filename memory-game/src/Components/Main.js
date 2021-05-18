@@ -1,7 +1,7 @@
 import React from "react";
 import Login from "./Login";
 import Game from "./Game";
-import Navbar from "./NavBar";
+import Navbar from "./Navbar";
 import EndGame from "./EndGame";
 
 class Main extends React.Component {

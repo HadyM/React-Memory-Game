@@ -1,6 +1,6 @@
 import React from "react";
 
-class NavBar extends React.Component {
+class Navbar extends React.Component {
   render() {
     const { name, score } = this.props;
     return (
@@ -13,4 +13,4 @@ class NavBar extends React.Component {
   }
 }
 
-export default NavBar;
+export default Navbar;

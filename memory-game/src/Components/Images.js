@@ -29,7 +29,6 @@ class Images extends React.Component {
         this.characters.shift();
       }
     }
-
     let allPictures = document.getElementsByClassName("image-blank");
     if (allPictures.length < 1) {
       this.props.endGame(true);
