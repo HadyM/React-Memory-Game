@@ -22,8 +22,8 @@ class Login extends React.Component {
                 className="form-control"
                 onChange={this.handleChange}
               />
-              <small className="form-text text-muted"> 
-                  Welcome to my pokemon memory game!
+              <small className="form-text text-muted">
+                Welcome to my pokemon memory game!
               </small>
             </div>
 
