@@ -27,9 +27,13 @@ class Login extends React.Component {
               </small>
             </div>
 
-            <button onClick={this.handleClick} className="btn btn-primary">
-              Start Game
-            </button>
+            <img
+              onClick={this.handleClick}
+              className="btn btn-primary"
+              src="https://pngimg.com/uploads/pokeball/pokeball_PNG25.png"
+              alt="pokeball"
+              style={{ width: "200px", height: "200px" }}
+            />
           </form>
         </div>
       </div>

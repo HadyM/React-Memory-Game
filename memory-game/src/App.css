@@ -28,11 +28,6 @@ form {
   grid-template-columns: 1fr 1fr;
 }
 
-form button {
-  width: 150px;
-  border-radius: 50%;
-}
-
 .navbar {
   display: flex;
   box-shadow: 4px 4px 6px gray;
