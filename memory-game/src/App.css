@@ -29,6 +29,11 @@ form {
   padding: 35px;
 }
 
+form input {
+  background-color: yellow;
+  color: red;
+}
+
 .navbar {
   display: flex;
   box-shadow: 4px 4px 6px gray;

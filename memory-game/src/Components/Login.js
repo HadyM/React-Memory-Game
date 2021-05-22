@@ -26,7 +26,6 @@ class Login extends React.Component {
                 Welcome to my pokemon memory game!
               </small>
             </div>
-
             <img
               onClick={this.handleClick}
               className="btn btn-primary"
