@@ -31,7 +31,7 @@ form {
 
 form input {
   background-color: yellow;
-  color: red;
+  color: rgb(185, 13, 13);
 }
 
 .navbar {
